@@ -1,5 +1,9 @@
 # TASK For Interview
 
+# Estimated Time to Finish
+2 hours, I have tried to upload the code first as an attachments but there was an error in the Gmail through linkedin as it doesn't accept attached files. Therefore I have uploaded the project to my GitHub.
+
+# - TASK
 Given a set of two dimensional points P (e.g. ....) find the size of set can be (100s).
 
 - Write a function that calculates simple K-means, the expected returned value from the function are:
@@ -7,10 +11,14 @@ Given a set of two dimensional points P (e.g. ....) find the size of set can be 
 1. a Aet of cluster ID that each point belongs to
 2. coordinates of centroids at the end of iteration.
 
+
+# - RESPONSE
 ```
 python ProjectFiles/Task1.py
 
 ```
+
+
 
 
 # First we show a test of the kMeans algorithm
