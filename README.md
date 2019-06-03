@@ -1,7 +1,7 @@
 # TASK For Interview
 
 # Estimated Time to Finish
-2 hours, I have tried to upload the code first as an attachments but there was an error in the Gmail through linkedin as it doesn't accept attached files. Therefore I have uploaded the project to my GitHub.
+I have spent 2 hours. Once I have finished the 1st hour, I tried to upload the code first as an attachments, but there was an error in the Gmail through linkedIn. It doesn't accept attached files (I figured it out later). Therefore I have uploaded the project to my GitHub.
 
 # - TASK
 Given a set of two dimensional points P (e.g. ....) find the size of set can be (100s).
